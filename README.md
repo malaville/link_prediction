@@ -2,6 +2,10 @@
 
 This repository is aimed at doing link prediction in investors-startup bipartite graph.
 
-[Illustrating paper](https://github.com/malaville/link_prediction/blob/master/illustrating_paper.ipynb) is for the moment the notebook you should look to understand what I am doing.
+[Illustrating paper](https://github.com/malaville/link_prediction/blob/master/illustrating_paper.ipynb) illustrates Zheng's paper
 
-The paper I inspire of is Zhen's which you can find in /base_papers
+[Preparing Real Data](https://github.com/malaville/link_prediction/blob/master/preparing_real_data.ipynb) prepares the data and puts it in a **utils.p** file that can be used to work.
+
+[Generate Dataframes and Predict](https://github.com/malaville/link_prediction/blob/master/generate-dataframes-and-predict.ipynb) shows how with prepared data, we generate dataframes and begin to predict and compare predictions
+
+The paper I inspire of is [Zheng's](https://github.com/malaville/link_prediction/blob/master/base_papers/zheng.pdg) which you can find in /base_papers
