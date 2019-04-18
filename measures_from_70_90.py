@@ -142,3 +142,6 @@ def dataframe_for_training(not_target_links, target_links, GR):
     df['SHORT'], df['LINKED'] = df[['VID','IID']].apply(shortest_path, axis=1),df[['VID','IID']].apply(shortest_path_linked, axis=1)
 
     return df
+
+def dataframe_for_training_with_infos(not_target_links, target_links, GR, descs_dataframe):
+    return dataframe_for_training(not_target_links, target_links, GR)
