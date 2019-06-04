@@ -35,7 +35,7 @@ See : [Investors profile from year to another](https://github.com/malaville/link
 [Investors profile from year to another](https://github.com/malaville/link_prediction/blob/master/test-feature-importance.ipynb) shows that the most impactful feature is LENGTH according to [SHAP feature importance](https://github.com/slundberg/shap).
 ![Most Impactful Features](https://github.com/malaville/link_prediction/blob/master/content/SHAP_values.png)
 ![Most Impactful Features 2](https://github.com/malaville/link_prediction/blob/master/content/SHAP_values2.png)
-![The PR-curve comparison)](https://github.com/malaville/link_prediction/blob/master/content/2019-6-4-11h48-0.9pc-[DFA_no_condition-0.9%.p].png)
+![The PR-curve comparison)](https://github.com/malaville/link_prediction/blob/master/content/pr-curve-comparison-1.png)
 
 The paper I inspire of is [Zheng's](https://github.com/malaville/link_prediction/blob/master/base_papers/zheng.pdg) which you can find in /base_papers
 
